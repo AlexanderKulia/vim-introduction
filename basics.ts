@@ -21,7 +21,9 @@ b (back) - jump backwards by a word
 
 MODES
 i (insert) - insert before cursor
+I - insert at the beggining of a line
 a (after) - insert after cursor
+A - insert at the end of a line
 v (visual) - enter visual mode
 V - enter visual line mode
 <esc> or ctrl+c - return to command mode
